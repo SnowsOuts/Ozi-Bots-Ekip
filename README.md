@@ -2,6 +2,9 @@
 
 Ozi Bots Ekip Version Sizlerle &lt;3
 
+# Public Version
+[Ozi-Bots](https://github.com/JaylenOzi/Ozi-Bots)  
+
 # Yapmanız gereken adımlar
 
 - Events Select Menu de ki rol idleri doldurmanız lazım, emoji sunucu ayar vesaire ayarladıktan sonra baslatmaya geldik npm i yapıyoruz ardından axios modülü yüklenmediği için npm i axios yapiyoruz eğer canvas yüklenmezse bazılarında hata oluyomus npm i canvas yapabilirsiniz botunuz hazır esenlikle kalın.
