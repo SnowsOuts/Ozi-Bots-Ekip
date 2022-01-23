@@ -1,6 +1,6 @@
 # Ozi-Bots-Ekip
 
-Ozi Bots Ekip Version Sizlerle &lt;3
+Ozi Bots Ekip Version Sizlerle Snowdan Selam &lt;3
 
 # Public Version
 [Ozi-Bots](https://github.com/JaylenOzi/Ozi-Bots)  
